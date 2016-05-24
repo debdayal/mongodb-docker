@@ -11,7 +11,7 @@ If you want to build your own docker image and upload to your docker hub account
 
 > docker push your-name/mongodb
 
-> docker pull your-name/maongodb
+> docker pull your-name/maongodb [optional]
 
 > docker run -p 27017:27017 --name mongodb -d your-name/mongodb
 
